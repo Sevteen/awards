@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  padding: 20px;
+  min-height: 100vh;
+  width: 100vw;
+  overflow-x: hidden;
+  font-family: 'Inter', sans-serif;
+}
+
+:root {
+  --orange: #ff8a00;
+  --secondary: #1bd97b;
+  --white-orange: #fffae6;
+  --gray: #eeeeee;
+}

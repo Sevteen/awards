@@ -1,0 +1,5 @@
+
+create controller and module
+nest g co award /infrastructure/controllers
+nest g mo award-proxy /infrastructure/controllers
+
